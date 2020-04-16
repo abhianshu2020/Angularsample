@@ -1,4 +1,4 @@
-{
+i{
     "name": "ngx-admin",
   "description": "HeartiHealth App",
   "keywords": ["Health Predictor", "Health Reports"],
@@ -37,6 +37,7 @@
         "@angular/compiler": "^9.0.4",
         "@angular/core": "^9.0.4",
         "@angular/forms": "^9.0.4",
+        "@fortawesome/fontawesome-free": "^5.2.0",
         "@angular/google-maps": "^9.1.0",
         "@angular/platform-browser": "^9.0.4",
         "@angular/platform-browser-dynamic": "^9.0.4",
