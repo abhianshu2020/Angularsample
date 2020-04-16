@@ -1,5 +1,8 @@
 {
     "name": "ngx-admin",
+  "description": "HeartiHealth App",
+  "keywords": ["Health Predictor", "Health Reports"],
+  "template": 
     "version": "5.0.0",
     "license": "MIT",
     "repository": {
