@@ -80,7 +80,7 @@
         "@angular/compiler-cli": "^9.0.4",
         "@angular/language-service": "9.0.4",
         "@compodoc/compodoc": "1.0.1",
-        "@fortawesome/fontawesome-free": "^5.2.0",
+        "@fontawesome/fontawesome-free": "^5.2.0",
         "@types/d3-color": "1.0.5",
         "@types/googlemaps": "^3.39.3",
         "@types/jasmine": "2.5.54",
